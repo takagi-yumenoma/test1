@@ -1,5 +1,4 @@
 # Git training!?
 
-## 概要
-
-kawashima-yumenomaさんのGitの練習用のリポジトリです。
+## Summary
+This is repository for Git training.
